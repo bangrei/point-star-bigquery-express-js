@@ -10,4 +10,5 @@ Steps to run this project:
     - npm i express-validator
     - npm i google-cloud-bigquery
     - npm i helmet
-4. Run `node index.js` command
+4. Add file: service-account.json (download the file which i sent to Gabriella's email address)
+6. Run `node index.js` command
